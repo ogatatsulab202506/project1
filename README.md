@@ -5,3 +5,4 @@ Hello, World!
 Goodby
 
 さようなら
+sub Goodby
